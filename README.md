@@ -4,6 +4,7 @@
 CONTENTS = including (but not lim. to) the following:
 - repos: equation`*` flame gauss duqu fanny.bmp stuxnet grayfish ,nls933w_dll,etc
 
+- LEGEND:` [ ThreatActorX <- a  codename I made, to describe "Eqgrp/Stuxnet/Fanny/(..)/It's creators/ and so on" all in one go]`
 
 ## REPOS
 - https://github.com/loneicewolf/DUQU
